@@ -1,0 +1,22 @@
+
+.row{
+	height: 200px;
+}
+
+.col{
+	width: 50px;
+	height: 100%;
+	display: flex;
+	justify-content: center; 
+	flex-direction: column;
+}
+
+.col > div{
+	padding: 20px;  
+	text-align: center; 
+}
+
+.col > div > .btn{
+	width: 120px;
+	height: 120px;
+}
