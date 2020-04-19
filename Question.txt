@@ -1,0 +1,4 @@
+Design a web application using node js for cricket portal using database. The application
+maintains list of cricket players with their information such as name, joining date, birthdate
+and any other information related to cricket. And perform ACID operations on these data.
+And perform any other additional operation of your choice.
